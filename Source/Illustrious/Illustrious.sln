@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo", "Echo\Echo.csproj", "{7F51E655-D412-4B5E-9A80-DAFB161D161F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illustrious", "Illustrious\Illustrious.csproj", "{3930BBB1-034E-42D2-822E-12702261321A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7F51E655-D412-4B5E-9A80-DAFB161D161F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F51E655-D412-4B5E-9A80-DAFB161D161F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F51E655-D412-4B5E-9A80-DAFB161D161F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F51E655-D412-4B5E-9A80-DAFB161D161F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3930BBB1-034E-42D2-822E-12702261321A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3930BBB1-034E-42D2-822E-12702261321A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3930BBB1-034E-42D2-822E-12702261321A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3930BBB1-034E-42D2-822E-12702261321A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {46BD65AD-C90C-4D16-AC45-B537A3002146}
+		SolutionGuid = {048A9D58-FF00-4B0D-881B-4A9CD1533A52}
 	EndGlobalSection
 EndGlobal
