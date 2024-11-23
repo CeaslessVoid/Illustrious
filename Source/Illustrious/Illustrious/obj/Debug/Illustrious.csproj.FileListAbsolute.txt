@@ -1,0 +1,2 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Illustrious\Source\Illustrious\Illustrious\obj\Debug\Illustrious.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Illustrious\Source\Illustrious\Illustrious\obj\Debug\Illustrious.csproj.CoreCompileInputs.cache

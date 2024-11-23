@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Neava\\source\\repos\\Illustrious\\",
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Illustrious\\Source\\Illustrious\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3930BBB1-034E-42D2-822E-12702261321A}|Illustrious\\Illustrious.csproj|c:\\users\\neava\\source\\repos\\illustrious\\illustrious\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3930BBB1-034E-42D2-822E-12702261321A}|Illustrious\\Illustrious.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\illustrious\\source\\illustrious\\illustrious\\tiersweapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3930BBB1-034E-42D2-822E-12702261321A}|Illustrious\\Illustrious.csproj|solutionrelative:illustrious\\tiersweapons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3930BBB1-034E-42D2-822E-12702261321A}|Illustrious\\Illustrious.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\illustrious\\source\\illustrious\\illustrious\\tieredweaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3930BBB1-034E-42D2-822E-12702261321A}|Illustrious\\Illustrious.csproj|solutionrelative:illustrious\\tieredweaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3930BBB1-034E-42D2-822E-12702261321A}|Illustrious\\Illustrious.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\illustrious\\source\\illustrious\\illustrious\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3930BBB1-034E-42D2-822E-12702261321A}|Illustrious\\Illustrious.csproj|solutionrelative:illustrious\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TiersWeapons.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Illustrious\\Source\\Illustrious\\Illustrious\\TiersWeapons.cs",
+              "RelativeDocumentMoniker": "Illustrious\\TiersWeapons.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Illustrious\\Source\\Illustrious\\Illustrious\\TiersWeapons.cs",
+              "RelativeToolTip": "Illustrious\\TiersWeapons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:36:10.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TieredWeaponBase.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Illustrious\\Source\\Illustrious\\Illustrious\\TieredWeaponBase.cs",
+              "RelativeDocumentMoniker": "Illustrious\\TieredWeaponBase.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Illustrious\\Source\\Illustrious\\Illustrious\\TieredWeaponBase.cs",
+              "RelativeToolTip": "Illustrious\\TieredWeaponBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:33:50.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Neava\\source\\repos\\Illustrious\\Illustrious\\Class1.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Illustrious\\Source\\Illustrious\\Illustrious\\Class1.cs",
               "RelativeDocumentMoniker": "Illustrious\\Class1.cs",
-              "ToolTip": "C:\\Users\\Neava\\source\\repos\\Illustrious\\Illustrious\\Class1.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Illustrious\\Source\\Illustrious\\Illustrious\\Class1.cs",
               "RelativeToolTip": "Illustrious\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T08:10:58.346Z",
               "EditorCaption": ""
